@@ -206,10 +206,6 @@ For production deployment, consider:
 4. Use type hints throughout
 5. Follow existing code style
 
-## 📄 License
-
-[Add your license here]
-
 ---
 
 **Built with Clean Architecture principles for maintainable, testable, and scalable healthcare software.**
