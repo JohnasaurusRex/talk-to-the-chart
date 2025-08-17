@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Poetry
+poetry.lock
+
+# Environment variables
+.env
+.env.*
+
+# VSCode
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Test output
+htmlcov/
+coverage.xml
+
+# Docs build
+/docs/_build/
+
+# Misc
+*.bak
+*.swp
